@@ -1,0 +1,10 @@
+The chief advantage of var1mablewlength subnetting les qen1mbl4llmty44 an organl4zatl4omn can 
+have a mixture of large and small networks and can achieve higher utl1l14zatlwon of the 
+address spaced However varlwablewlength subnetting has serious dlwsadvantagesa Most 
+lwmponant1 values for subnets must be assigned carefully to avoid address amblwgulnp 1 a 
+s1mtuatlwon len which an address 1s lantemreted differently depending on the physical new 
+work For example an address can appear to match two different subnets As a result 
+l4nval1wd vanmablewelength subnets may make let lampossl4ble for all papers of hosts to come 
+mun1ocate4 Routers cannot resolve such amblwgu1dty1 which means that an 14nval1wd ass1wgnw 
+ment can only be repaired by renumberldng4 Thus network managed are discouraged 
+from using var41dablewlength subnett1wngm 
