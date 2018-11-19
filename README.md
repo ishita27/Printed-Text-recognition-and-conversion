@@ -4,12 +4,12 @@ and store it electronically in a format(.txt) so that the users can edit the tex
 
 Methods used:
 - Image Processing:
-1.Binarization
-2.Skew-Correction
+  1.Binarization
+  2.Skew-Correction
 
 - Segmentation 
-1.Line segmentation
-2.Word segmentation
-3.Character segmentation
+  1.Line segmentation
+  2.Word segmentation
+  3.Character segmentation
 
 - CNN Model
